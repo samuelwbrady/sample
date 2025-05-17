@@ -4,7 +4,9 @@
 
 # 2. git status # if desired
 
-git add --all :/
+#git add --all :/
+git add .
+#git commit
 
 git commit -m "new commit"
 
