@@ -4,10 +4,9 @@
 
 # 2. git status # if desired
 
+git add --all :/
 
-git add -all
-
-git commit -m "new commit" *
+git commit -m "new commit"
 
 git push -u origin main
 
